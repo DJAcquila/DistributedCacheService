@@ -1,0 +1,2 @@
+# Distributed-Systems---Final-Project
+The project aims to build a web proxy system where there will be the intermediary service between the client (browser) and server through a cluster of proxies, each one with its cache that will be non-persistent, that is, it will save the data only while the algorithms are running, also considering that these distributed proxies communicate all the time through a peer to peer connection so that everyone gets their respective cache updated, so that it can have consistency when answering a request from a client.
